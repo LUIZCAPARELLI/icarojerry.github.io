@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -9,20 +9,28 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
    version="1.1"
-   id="Capa_1"
-   x="0px"
-   y="0px"
-   viewBox="0 0 600 600"
-   xml:space="preserve"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="email-logo.svg"
    width="600"
-   height="600"><metadata
-     id="metadata49"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs47" /><sodipodi:namedview
+   height="600"
+   viewBox="0 0 600 600"
+   sodipodi:docname="email-logo.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -33,59 +41,18 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1440"
      inkscape:window-height="832"
-     id="namedview45"
+     id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.37249375"
-     inkscape:cx="-178.5875"
-     inkscape:cy="-97.598218"
+     inkscape:zoom="0.55625733"
+     inkscape:cx="400.92519"
+     inkscape:cy="306.27766"
      inkscape:window-x="-4"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Capa_1" /><g
-     id="g3"
-     transform="matrix(41.441947,0,0,44.293115,10.738435,-13.306092)"><g
-       id="g5"><path
-         style="fill:#030104"
-         d="M 7,9 5.268,7.484 0.316,11.729 C 0.496,11.896 0.739,12 1.007,12 l 11.986,0 c 0.267,0 0.509,-0.104 0.688,-0.271 L 8.732,7.484 7,9 Z"
-         id="path7"
-         inkscape:connector-curvature="0" /><path
-         style="fill:#030104"
-         d="M 13.684,2.271 C 13.504,2.103 13.262,2 12.993,2 L 1.007,2 C 0.74,2 0.498,2.104 0.318,2.273 L 7,8 13.684,2.271 Z"
-         id="path9"
-         inkscape:connector-curvature="0" /><polygon
-         style="fill:#030104"
-         points="4.833,7.079 0,2.878 0,11.186 "
-         id="polygon11" /><polygon
-         style="fill:#030104"
-         points="14,2.875 9.167,7.079 14,11.186 "
-         id="polygon13" /></g></g><g
-     id="g15"
-     transform="translate(0,586)" /><g
-     id="g17"
-     transform="translate(0,586)" /><g
-     id="g19"
-     transform="translate(0,586)" /><g
-     id="g21"
-     transform="translate(0,586)" /><g
-     id="g23"
-     transform="translate(0,586)" /><g
-     id="g25"
-     transform="translate(0,586)" /><g
-     id="g27"
-     transform="translate(0,586)" /><g
-     id="g29"
-     transform="translate(0,586)" /><g
-     id="g31"
-     transform="translate(0,586)" /><g
-     id="g33"
-     transform="translate(0,586)" /><g
-     id="g35"
-     transform="translate(0,586)" /><g
-     id="g37"
-     transform="translate(0,586)" /><g
-     id="g39"
-     transform="translate(0,586)" /><g
-     id="g41"
-     transform="translate(0,586)" /><g
-     id="g43"
-     transform="translate(0,586)" /></svg>
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#000000"
+     d="m 0.97669032,300.59043 0,-300.00000717 299.49999968,0 299.5,0 0,300.00000717 0,300 -299.5,0 -299.49999968,0 0,-300 z M 552.97669,501.98098 c 7.08712,-3.39031 12.37055,-7.72708 11.77242,-9.66307 -0.20858,-0.67512 -44.17947,-41.41318 -97.71308,-90.52904 -63.22958,-58.01169 -97.93815,-89.19591 -99.05852,-89 -0.94857,0.16586 -16.50603,14.13906 -34.57212,31.05156 -18.06609,16.9125 -33.19489,30.75 -33.61956,30.75 -0.42466,0 -15.69238,-13.97318 -33.92826,-31.05151 -21.26357,-19.91384 -33.7709,-30.94337 -34.87005,-30.75 -2.67793,0.47111 -195.992924,178.04426 -196.002491,180.04179 -0.01213,2.53296 8.546836,8.44741 15.491666,10.70511 5.889647,1.91468 10.506083,1.94691 250.999995,1.75258 l 245,-0.19797 6.5,-3.10945 z m -432.25,-118.84196 c 51.8375,-47.09718 94.25,-86.22181 94.25,-86.94361 0,-1.72426 -188.706852,-177.01401 -190.986643,-177.40745 -1.127639,-0.19461 -1.972567,0.51861 -2.369345,2 -1.079736,4.03125 -0.740069,344.41961 0.346542,347.27761 0.794259,2.08906 1.339207,2.41703 2.75,1.65502 0.967698,-0.52267 44.171951,-39.48438 96.009446,-86.58157 z m 457.25,-89.04859 c 0,-170.00907 -0.0578,-175.5 -1.84763,-175.5 -2.76497,0 -190.65237,175.03117 -190.65237,177.60695 0,2.63034 187.6643,173.39305 190.55498,173.39305 1.9193,0 1.94502,-2.32043 1.94502,-175.5 z M 433.32219,214.91894 C 515.09075,140.01761 564.94544,93.666693 564.76242,92.716323 c -0.44462,-2.30872 -7.98944,-7.6627 -14.50342,-10.29196 l -5.78231,-2.33394 -240,-0.27703 c -163.45491,-0.18867 -242.174229,0.0567 -246.817102,0.76948 -10.923298,1.67686 -23.890781,9.41746 -22.378544,13.35829 0.994439,2.591464 262.678516,241.649267 264.520816,241.649267 0.98188,0 61.06603,-54.30217 133.52033,-120.67149 z"
+     id="path4140"
+     inkscape:connector-curvature="0" />
+</svg>
